@@ -1,0 +1,1 @@
+# Decodificador_de_Contrase-as_Paralelo_en_C
